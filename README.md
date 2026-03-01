@@ -68,9 +68,6 @@
     <img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"/>
-    <img src=""/>
-    <img src=""/>
-
 </div>
 <br>
 
