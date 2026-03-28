@@ -15,7 +15,7 @@
 
 ### 📊 Mis Estadísticas
 <div align="center">
-  <img src="https://github.com/ivonkr/ivonkr/blob/main/metrics_renders/github-metrics.svg" alt="Mis Estadísticas de Lenguajes" width="100%">
+  <img src="https://github.com/ivonkr/ivonkr/blob/main/github-metrics.svg" alt="Mis Estadísticas de Lenguajes" width="100%">
 </div>
 
 ---
