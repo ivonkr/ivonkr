@@ -15,8 +15,8 @@
 
 ### 📊 Mis Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivonkr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ivonkr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ivonkr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ivonkr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="190px"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647">
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"/>
