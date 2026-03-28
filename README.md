@@ -15,8 +15,7 @@
 
 ### 📊 Mis Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ivonkr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190px"/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ivonkr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="190px"/>
+  <img src="https://github.com/ivonkr/ivonkr/raw/main/github-metrics.svg" alt="Mis Estadísticas de Lenguajes" width="100%">
 </div>
 
 ---

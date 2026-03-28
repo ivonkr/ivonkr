@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Se ejecuta automáticamente cada 24 horas
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # El nombre del Secret que guardaste en Settings
+          token: ${{ secrets.GH_TOKEN }}
+          user: ivonkr
+          template: classic
+          base: ""
+          # Configuración específica para los lenguajes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          # Esta opción es la que permite leer tus repos privados
+          config_import_github_token: yes
