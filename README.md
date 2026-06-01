@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff">
   <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
 </p>
 
 #### ☁️ Bases de Datos y Cloud
@@ -57,6 +59,8 @@
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/>
 </p>
 
 #### ⚙️ Software y Más
